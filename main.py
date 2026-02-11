@@ -9,7 +9,7 @@ import asyncio
 # ============================
 # HARD-CODED TOKEN
 # ============================
-TOKEN = "MTQ3MDYzOTU4ODM1ODc1NDQ5OA.GGYd6b.mNGcR521n9L894EmEyU3xfWPBwRXq11Y-UmEj4"  # <-- Put your token here
+TOKEN = "MTQ3MDYzOTU4ODM1ODc1NDQ5OA.GGL7cx.dbt-BzgU2cbX8o7JpyDghJ5YCBwKJjvBvwZev0"  # <-- Put your token here
 
 # ============================
 # INTENTS SETUP
